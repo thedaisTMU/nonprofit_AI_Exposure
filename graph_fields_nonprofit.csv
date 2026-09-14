@@ -1,0 +1,84 @@
+Figure,R_label,R_Filter,English,French
+Common,LEHC,"","Low Exposure, High Complementarity","Exposition faible, Complémentarité élevée"
+Common,LELC,"","Low Expoure, Low Complementarity","Exposition faible, Complémentarité faible"
+Common,HEHC,"","High Exposure, High Complementarity","Exposition élevée, Complémentarité élevée"
+Common,HELC,"","High Exposure, Low Complementarity","Exposition élevée, Complémentarité faible"
+Figure_1,Occupations,Human resources professionals,Human resources professionals,Professionnels des ressources humaines
+Figure_1,Occupations,Social and community service workers,Social and community service workers,Travailleurs sociaux et communautaires
+Figure_1,Occupations,Administrative assistants,Administrative assistants,Adjoints administratifs
+Figure_1,Occupations,Paralegals and related occupations,Paralegals,Parajuristes
+Figure_1,Occupations,"Border services, customs, and immigration officers","Border, customs, and immigration officers","Agents des frontières, des douanes et de l’immigration"
+Figure_1,Occupations,"Social policy researchers, consultants and program officers",Social policy researchers,Chercheurs en politique sociale
+Figure_1,Occupations,Financial auditors and accountants,Auditors and accountants,Auditeurs et comptables
+Figure_1,Occupations,Police officers (except commissioned),Police officers,Policiers
+Figure_1,Occupations,Firefighters,Firefighters,Pompiers
+Figure_1,Occupations,Correctional service officers,Correctional service officers,Agents des services correctionnels
+Figure_1,Occupations,Heavy equipment operators,Heavy equipment operators,Opérateurs d’équipement lourd
+Figure_1,Occupations,Public works and maintenance labourers,Public works and maintenance labourers,Ouvriers des travaux publics et de l’entretien
+Figure_1,Occupations,Landscaping and grounds maintenance labourers,Landscapers,Paysagistes
+Figure_1,Occupations,Transport truck drivers,Truck drivers,Camionneurs
+Figure_1,Occupations,Seniors managers - public and private sector,Senior managers,Cadres supérieurs
+Figure_1,Occupations,Lawyers and Quebec notaries,Lawyers,Avocats
+Figure_1,Occupations,General office support workers,Office support workers,Employés de soutien de bureau
+Figure_1,Occupations,Other administrative services managers,Administrative service managers,Gestionnaires des services administratifs
+Figure_1,Occupations,Employment insurance and revenue officers,Employment insurance and revenue officers,Agents de l’assurance-emploi et du revenu
+Figure_1,Occupations,Survey interviewers and statistical clerks,Survey interviewers and statistical clerks,Enquêteurs et commis aux statistiques
+Figure_2,Occupations,Human resources professionals,Human resources professionals,Professionnels des ressources humaines
+Figure_2,Occupations,Social and community service workers,Social and community service workers,Travailleurs sociaux et communautaires
+Figure_2,Occupations,Administrative assistants,Administrative assistants,Adjoints administratifs
+Figure_2,Occupations,Paralegals and related occupations,Paralegals,Parajuristes
+Figure_2,Occupations,"Border services, customs, and immigration officers","Border, customs, and immigration officers","Agents des frontières, des douanes et de l’immigration"
+Figure_2,Occupations,"Social policy researchers, consultants and program officers",Social policy researchers,Chercheurs en politique sociale
+Figure_2,Occupations,Financial auditors and accountants,Auditors and accountants,Auditeurs et comptables
+Figure_2,Occupations,Police officers (except commissioned),Police officers,Policiers
+Figure_2,Occupations,Firefighters,Firefighters,Pompiers
+Figure_2,Occupations,Correctional service officers,Correctional service officers,Agents des services correctionnels
+Figure_2,Occupations,Heavy equipment operators,Heavy equipment operators,Opérateurs d’équipement lourd
+Figure_2,Occupations,Public works and maintenance labourers,Public works and maintenance labourers,Ouvriers des travaux publics et de l’entretien
+Figure_2,Occupations,Landscaping and grounds maintenance labourers,Landscapers,Paysagistes
+Figure_2,Occupations,Transport truck drivers,Truck drivers,Camionneurs
+Figure_2,Occupations,Seniors managers - public and private sector,Senior managers,Cadres supérieurs
+Figure_2,Occupations,Lawyers and Quebec notaries,Lawyers,Avocats
+Figure_2,Occupations,General office support workers,Office support workers,Employés de soutien de bureau
+Figure_2,Occupations,Other administrative services managers,Administrative service managers,Gestionnaires des services administratifs
+Figure_2,Occupations,Employment insurance and revenue officers,Employment insurance and revenue officers,Agents de l’assurance-emploi et du revenu
+Figure_2,Occupations,Survey interviewers and statistical clerks,Survey interviewers and statistical clerks,Enquêteurs et commis aux statistiques
+Figure_3,Occupations,Human resources professionals,Human resources professionals,Professionnels des ressources humaines
+Figure_3,Occupations,Social and community service workers,Social and community service workers,Travailleurs sociaux et communautaires
+Figure_3,Occupations,Administrative assistants,Administrative assistants,Adjoints administratifs
+Figure_3,Occupations,Administrative officers,Administrative officers,Agents administratifs
+Figure_3,Occupations,Paralegals and related occupations,Paralegals,Parajuristes
+Figure_3,Occupations,"Social policy researchers, consultants and program officers",Social policy researchers,Chercheurs en politique sociale
+Figure_3,Occupations,Financial auditors and accountants,Auditors and accountants,Auditeurs et comptables
+Figure_3,Occupations,Police officers (except commissioned),Police officers,Policiers
+Figure_3,Occupations,Firefighters,Firefighters,Pompiers
+Figure_3,Occupations,Correctional service officers,Correctional service officers,Agents des services correctionnels
+Figure_3,Occupations,Heavy equipment operators,Heavy equipment operators,Opérateurs d’équipement lourd
+Figure_3,Occupations,Public works and maintenance labourers,Public works and maintenance labourers,Ouvriers des travaux publics et de l’entretien
+Figure_3,Occupations,Landscaping and grounds maintenance labourers,Landscapers,Paysagistes
+Figure_3,Occupations,Transport truck drivers,Truck drivers,Camionneurs
+Figure_3,Occupations,Seniors managers - public and private sector,Senior managers,Cadres supérieurs
+Figure_3,Occupations,Lawyers and Quebec notaries,Lawyers,Avocats
+Figure_3,Occupations,General office support workers,Office support workers,Employés de soutien de bureau
+Figure_3,Occupations,Other administrative services managers,Administrative service managers,Gestionnaires des services administratifs
+Figure_4,Occupations,Human resources professionals,Human resources professionals,Professionnels des ressources humaines
+Figure_4,Occupations,Social and community service workers,Social and community service workers,Travailleurs sociaux et communautaires
+Figure_4,Occupations,Administrative assistants,Administrative assistants,Adjoints administratifs
+Figure_4,Occupations,Paralegals and related occupations,Paralegals,Parajuristes
+Figure_4,Occupations,"Border services, customs, and immigration officers","Border, customs, and immigration officers","Agents des frontières, des douanes et de l’immigration"
+Figure_4,Occupations,Construction inspectors,Construction inspectors,Inspecteurs de la construction
+Figure_4,Occupations,Police officers (except commissioned),Police officers,Policiers
+Figure_4,Occupations,Firefighters,Firefighters,Pompiers
+Figure_4,Occupations,Correctional service officers,Correctional service officers,Agents des services correctionnels
+Figure_4,Occupations,Heavy equipment operators,Heavy equipment operators,Opérateurs d’équipement lourd
+Figure_4,Occupations,Public works and maintenance labourers,Public works and maintenance labourers,Ouvriers des travaux publics et de l’entretien
+Figure_4,Occupations,Landscaping and grounds maintenance labourers,Landscapers,Paysagistes
+Figure_4,Occupations,Transport truck drivers,Truck drivers,Camionneurs
+Figure_4,Occupations,Seniors managers - public and private sector,Senior managers,Cadres supérieurs
+Figure_4,Occupations,Lawyers and Quebec notaries,Lawyers,Avocats
+Figure_4,Occupations,General office support workers,Office support workers,Employés de soutien de bureau
+Figure_4,Occupations,Other administrative services managers,Administrative service managers,Gestionnaires des services administratifs
+Figure_4,Occupations,Civil engineers,Civil engineers,Ingénieurs civils
+Figure_4,Occupations,Urban and land use planners,Urban and land use planners,Urbanistes et planificateurs de l’aménagement du territoire
+Figure_4,Occupations,Dispatchers,Dispatchers,Répartiteurs
+Figure_4,Occupations,Accounting and related clerks,Accounting clerks,Commis comptables
